@@ -1,4 +1,4 @@
-# StickGame.github.io
+# chichilku.github.io
 A simple 2d stick game in javascript.
 
-[stickgame.github.io](https://stickgame.github.io/)
+[chichilku.github.io](https://chichilku.github.io/)
